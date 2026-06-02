@@ -9,7 +9,7 @@ try:
         host="localhost",
         database="postgres2",
         user="postgres",
-        password="987091werf",
+        password="*",
         port="5432"
     )
 
